@@ -1,7 +1,7 @@
 +++
 description = "La filosofía debe de ser un derecho de toda persona"
 image = ""
-date = "2014-07-11T10:54:24+02:00"
+date = "2017-03-06T12:15:24-06:00"
 featured = false
 share = true
 author = "Eunice Bernal"
